@@ -26,7 +26,7 @@
 **Technology Stack**
 
 -FRONT END :-  
-Netbeans IDE 14
+Netbeans IDE 14 ; 
 Java JDK 17
 
 -BACK END :- 
